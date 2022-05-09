@@ -1,5 +1,6 @@
 // Declaración de funciones
 // Fichero modificado.
+// Nunca se debe hacer.
 function saludo()
 {
     console.log("Hola");
